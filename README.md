@@ -1,3 +1,3 @@
 # kokoa clone
 
-JJ's historical first step!
+Everything started here...
