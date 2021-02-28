@@ -1,0 +1,31 @@
+.notification-dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: flex;
+  position: absolute;
+  right: -4px;
+}
+
+.notification-dot0 {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: flex;
+  position: absolute;
+  top: 0px;
+}
+
+.notification-dot__container {
+  position: relative;
+}
+
+.ellipsis-dot {
+  right: -4px;
+}
+.cog-dot {
+  right: -6px;
+  top: -6px;
+}
